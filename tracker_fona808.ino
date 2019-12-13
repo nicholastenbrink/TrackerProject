@@ -1,6 +1,6 @@
 // Tracker - FONA808 Shield 
 // Author: Nick TenBrink
-//
+// Sketch adapated from Adafruit example projcet
 // Released under a MIT license:
 // https://opensource.org/licenses/MIT
 #include <SoftwareSerial.h>
