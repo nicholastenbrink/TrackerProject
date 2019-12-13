@@ -1,6 +1,10 @@
 // Tracker - FONA808 Shield 
 // Author: Nick TenBrink
-// Sketch adapated from Adafruit example projcet
+// Sketch adapated from Adafruit example project 
+// https://learn.adafruit.com/track-your-treats-halloween-candy-gps-tracker/overview
+// Hardware Info:
+// - https://learn.adafruit.com/adafruit-fona-808-cellular-plus-gps-shield-for-arduino/overview
+//
 // Released under a MIT license:
 // https://opensource.org/licenses/MIT
 #include <SoftwareSerial.h>
